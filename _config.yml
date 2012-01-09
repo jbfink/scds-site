@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://library.mcmaster.ca/scds
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: McMaster Centre for Digital Scholarship
+#subtitle: A blogging framework for hackers.
+#author: Your Name
 simple_search: http://google.com/search
 description:
 
