@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About the SCDS"
-sharing: true
+sharing: false
 footer: true
 ---
 This is a test page about stuff.
